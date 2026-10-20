@@ -102,8 +102,6 @@ public final class TpGeneratedGameTest {
 					player.getRotationVector(),
 					level,
 					permissions,
-					player.getName().getString(),
-					player.getDisplayName(),
 					level.getServer(),
 					player);
 		}
@@ -114,11 +112,9 @@ public final class TpGeneratedGameTest {
 				Vec2 rotation,
 				ServerLevel level,
 				PermissionSet permissions,
-				String textName,
-				Component displayName,
 				MinecraftServer server,
 				Entity entity) {
-			super(source, position, rotation, level, permissions, textName, displayName, server, entity);
+			super(source, position, rotation, level, permissions, server, entity);
 		}
 
 		@Override

@@ -6,7 +6,7 @@ TP Generated 是一个纯服务端 Fabric 模组。它允许 1 级权限玩家�
 
 ## Minecraft 版本
 
-- 26.2
+- 26.3
 
 ## 安装
 

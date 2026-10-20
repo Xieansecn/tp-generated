@@ -6,7 +6,7 @@ This document is also available in [中文](README.zh.md).
 
 ## Minecraft version
 
-- 26.2
+- 26.3
 
 ## Installation
 
